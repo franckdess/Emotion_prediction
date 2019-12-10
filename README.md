@@ -1,7 +1,5 @@
 # Emotion prediction
 
-_____
-
 This project is divided into three parts.
 
 #### First part
