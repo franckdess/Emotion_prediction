@@ -1,7 +1,5 @@
 # Emotion prediction
 
-_____
-
 This project is divided into three parts.
 
 #### First part
@@ -44,6 +42,6 @@ If this is not the case, run the following command:
 	`$pip install library_name`
 where `library_name` is the name of the missing library.
 
-Understanding the code
+#### Understanding the code
 
 In both functions.py and emotion_prediction.ipynb files, the implementation of every function as well as every step are precisely described. Please refer to the corresponding file to have the complete explanation.
